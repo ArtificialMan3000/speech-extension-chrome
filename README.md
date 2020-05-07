@@ -1,2 +1,2 @@
 # speech-extention-chrome
-Extention for chrome that voiced selected text
+Extention for chrome that voicing selected text
