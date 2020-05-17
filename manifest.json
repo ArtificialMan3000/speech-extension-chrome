@@ -1,0 +1,11 @@
+{
+  "name": "Text speeker",
+  "version": 0.1,
+  "manifest_version": 2,
+  "description": "The extention that voices selected text",
+  "icons": {},
+  "background": {
+    "script": "background.js",
+    "persistent": false
+  }
+}
